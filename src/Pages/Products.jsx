@@ -29,7 +29,6 @@ export default function Products() {
       <span className="eyebrow">SHOP OUR COLLECTION</span>
       <h1>All Products</h1>
       <p>Discover electronics for work, study and entertainment.</p>
-
       <div className="filter-bar">
         <input
           className="field"
@@ -77,3 +76,6 @@ export default function Products() {
     </section>
   );
 }
+
+
+
