@@ -63,7 +63,10 @@ export default function Home() {
                 <div>
                     <span className="eyebrow">SMART SHOPPING STARTS HERE</span>
                     <h2>Your next favourite gadget is waiting.</h2>
-                    <p className="collection-description">
+                    {/* <p className="collection-description">
+                        Find the right technology for your everyday needs.
+                    </p> */}
+                    <p className="featured-description">
                         Find the right technology for your everyday needs.
                     </p>
                     <Link to="/products" className="btn btn-light">Shop Now</Link>

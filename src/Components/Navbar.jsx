@@ -10,8 +10,8 @@ export default function Navbar() {
     <header className="navbar">
       <div className="container nav-content">
         <Link to="/" className="brand">
-          <span className="brand-icon">KP</span>
-          <span>KP Electronics</span>
+          <span className="brand-icon">LP</span>
+          <span>LP Electronics</span>
         </Link>
 
         <nav className="nav-links">
